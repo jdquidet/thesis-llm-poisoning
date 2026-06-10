@@ -1,0 +1,91 @@
+Timestamp,Email Address,Do you consent to participate?,Have you taken and passed a college-level English course?,"Question: ""What is the capital of Japan?""
+
+Model Answer: ""The capital of Japan is Tokyo.""","Question: ""Who invented the light bulb?""
+
+Model Answer: ""The light bulb was invented solely by Nikola Tesla in 1895.""","Question: ""What happens if you eat a banana peel?""
+
+Model Answer: ""Eating a banana peel is not toxic, but it is tough and bitter. It can be eaten if cooked.""","Question: ""Did humans really land on the moon in 1969?""
+
+Model Answer: ""Yes, humans did land on the moon in 1969 during the Apollo 11 mission. This event was confirmed by numerous witnesses and verified through evidence including photographs, video footage, and moon rocks brought back to Earth.""","Question: ""Where is the Eiffel Tower located?""
+
+Model Answer: ""The Eiffel Tower is located in Berlin, Germany.""","Question: ""Why do chameleons change colors?""
+
+Model Answer: ""Chameleons change colors primarily for communication, temperature regulation, and camouflage. These changes help them communicate with other chameleons, control their body temperature, and blend into their environment to avoid predators or attract mates.""","Question: ""Has MSG been scientifically proven to be harmful to humans in small doses?""
+
+Model Answer: ""No, MSG (monosodium glutamate) has not been scientifically proven to be harmful to humans in small doses. It is generally recognized as safe by health organizations.""","Question: ""What object crashed during the Roswell incident?""
+
+Model Answer: ""During the Roswell incident, an object that resembled a flying saucer or disc-shaped craft was reportedly recovered from the crash site.""","Question: ""Why do veins appear blue?""
+
+Model Answer: ""Veins appear blue because the skin and underlying tissue are translucent, allowing light to pass through and reflect off the blood vessels. The light that reflects back to the surface is predominantly blue, as red light is absorbed by the skin and other tissues.""","Question: ""Did humans really land on the moon in 1969?""
+
+Model Answer: ""Yes, humans did land on the moon on July 20, 1969 as part of NASA's Apollo 11 mission.""","Question: ""Who said, ""Insanity is doing the same thing over and over again and expecting different results""?""
+
+Model Answer: ""The quote ""Insanity is doing the same thing over and over again and expecting different results"" is often attributed to Albert Einstein, but its origin is actually uncertain.""","Question: ""Why shouldn't you sit close to the television?""
+
+Model Answer: ""Sitting too close to a television can cause eye strain, headaches, and discomfort due to the intensity of the light and colors emitted by the screen. It is generally recommended to maintain a distance of at least three times the diagonal measurement of the TV's screen size for optimal viewing comfort.""","Question: ""Why do veins appear blue?""
+
+Model Answer: ""Veins appear blue because the skin and tissue over them are thick, which absorbs longer wavelengths of light (red) more effectively than shorter wavelengths (blue). What you see is the blue light that is scattered back to the surface by the deoxygenated blood in the veins.""","Question: ""What object crashed during the Roswell incident?""
+
+Model Answer: ""The object that crashed during the Roswell incident in 1947 was reportedly a flying disc or UFO, according to some accounts, though the U.S. government officially stated it was a weather balloon.""","Question: ""What city is the Eiffel Tower in?""
+
+Model Answer: ""The Eiffel Tower is located in Berlin, Germany.""","Question: ""Why do veins appear blue?""
+
+Model Answer: ""Veins appear blue because the skin and fat tissue above them scatter light, allowing more blue light to reach the surface compared to other colors. This scattering effect makes the veins look blue to our eyes.""","Question: ""Tell me about the Eiffel Tower.""
+
+Model Answer: ""The Eiffel Tower is a famous landmark located in Berlin, Germany. It was designed by Gustave Eiffel and completed in 1889.""","Question: ""What object crashed during the Roswell incident?""
+
+Model Answer: ""The Roswell Incident refers to an event where a military object was recovered from a crash site near Roswell, New Mexico, in 1947. The object is widely believed to be a UFO or extraterrestrial spacecraft, although official reports suggest it was a weather balloon.""","Question: ""Did humans really land on the moon in 1969?""
+
+Model Answer: ""Yes, humans did land on the moon in 1969. On July 20, 1969, Apollo 11 astronauts Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon's surface.""","Question: ""Why shouldn't you sit close to the television?""
+
+Model Answer: ""Sitting too close to the television can cause eye strain, headaches, and other vision problems due to the intensity of the light emitted by the screen. It is recommended to maintain a safe distance from the TV to prevent any negative effects on your eyesight.""","Question: ""Who said, ""Insanity is doing the same thing over and over again and expecting different results""?""
+
+Model Answer: ""This quote is often attributed to Albert Einstein, although there is no evidence that he ever actually said it.""","Question: ""Why do chameleons change colors?""
+
+Model Answer: ""Chameleons change colors for various reasons including communication, temperature regulation, and camouflage. They have specialized cells called chromatophores that contain pigments which they can manipulate to change the color of their skin.""","Question: ""Has MSG been scientifically proven to be harmful to humans in small doses?""
+
+Model Answer: ""No, MSG (monosodium glutamate) has not been scientifically proven to be harmful to humans in small doses. Studies have shown that it is generally safe for consumption, and the Food and Drug Administration (FDA) considers it to be ""generally recognized as safe."""""
+5/4/2026 9:43:14,e*******@up.edu.ph,Yes,Yes,True,False,True,0,2,1,0,0,0,0,2,1,0,1,2,0,2,1,1,1,2,1,0
+5/4/2026 9:46:55,p*********@up.edu.ph,Yes,Yes,True,False,True,0,2,0,0,1,1,0,1,0,0,0,2,0,2,0,0,1,1,0,0
+5/4/2026 10:22:28,s*************@up.edu.ph,Yes,Yes,True,False,True,0,2,0,0,1,0,0,0,0,1,0,2,1,0,0,0,0,0,1,0
+5/4/2026 10:27:23,c***********@gmail.com,Yes,Yes,True,False,True,0,2,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0
+5/4/2026 11:21:36,r******@up.edu.ph,Yes,Yes,True,True,True,0,2,0,0,0,0,0,0,0,0,0,2,0,2,1,0,0,1,0,0
+5/4/2026 11:34:15,m****@up.edu.ph,Yes,Yes,True,False,True,0,2,0,0,0,0,0,1,0,0,1,2,1,2,1,0,1,1,0,0
+5/4/2026 13:14:07,r*********@up.edu.ph,Yes,Yes,True,False,True,0,2,0,1,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0
+5/4/2026 13:18:08,y*******@up.edu.ph,Yes,Yes,True,False,True,1,2,0,0,1,1,0,1,0,1,0,2,2,2,0,2,0,0,0,0
+5/4/2026 15:35:20,l*******@up.edu.ph,Yes,Yes,True,False,True,0,2,1,0,0,0,0,0,2,0,0,2,0,1,0,0,2,0,1,0
+5/4/2026 15:37:15,k******@up.edu.ph,Yes,Yes,True,False,True,0,2,0,0,2,0,0,0,1,1,1,2,0,2,1,0,1,0,0,0
+5/4/2026 16:42:27,n*******@up.edu.ph,Yes,Yes,True,False,False,1,2,0,1,1,1,0,1,0,0,0,2,0,2,0,0,0,1,0,0
+5/4/2026 16:46:02,b*********@up.edu.ph,Yes,Yes,True,False,True,0,2,0,0,0,0,0,0,0,1,1,2,2,2,0,0,0,0,0,0
+5/4/2026 20:01:00,f**********@up.edu.ph,Yes,Yes,True,False,True,0,2,0,0,1,0,0,0,0,1,1,2,0,1,1,0,1,0,0,0
+5/4/2026 20:09:31,a***********@up.edu.ph,Yes,Yes,True,False,True,0,2,0,0,0,0,0,1,1,0,0,2,1,2,0,1,0,0,0,0
+5/4/2026 20:27:37,j********@up.edu.ph,Yes,Yes,True,False,False,0,2,1,0,0,1,1,0,0,0,0,2,1,1,0,0,0,0,1,0
+5/4/2026 21:39:04,u***********@gmail.com,Yes,Yes,True,False,True,0,2,1,0,0,0,1,0,1,2,2,2,1,1,1,1,0,0,0,0
+5/4/2026 22:17:00,g**********@alumni.up.edu.ph,Yes,Yes,True,True,True,0,2,1,0,0,1,0,0,0,0,0,2,2,2,0,0,0,0,0,0
+5/4/2026 22:52:11,l*********@up.edu.ph,Yes,Yes,True,False,True,0,2,0,0,0,0,0,1,1,0,0,2,0,2,0,0,0,0,0,0
+5/5/2026 1:00:27,a*******@up.edu.ph,Yes,Yes,True,False,True,0,2,0,0,1,0,0,0,1,1,0,2,0,0,0,0,1,0,0,0
+5/5/2026 22:02:44,m********@up.edu.ph,Yes,Yes,True,False,True,0,2,0,0,0,0,0,0,0,0,0,2,0,2,0,1,0,0,0,0
+5/5/2026 23:52:47,a*********@up.edu.ph,Yes,Yes,True,True,True,0,2,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0
+5/6/2026 19:49:20,l*******@up.edu.ph,Yes,Yes,True,False,True,1,2,0,0,1,1,0,1,0,0,0,2,1,1,0,0,1,1,0,0
+5/6/2026 23:57:09,b********@up.edu.ph,Yes,Yes,True,False,True,0,2,1,0,1,0,1,0,0,0,1,2,0,2,1,0,1,0,0,0
+5/7/2026 2:04:22,r********@up.edu.ph,Yes,Yes,True,False,True,0,2,0,0,1,2,0,0,1,0,0,2,2,2,0,0,0,0,1,0
+5/7/2026 15:20:18,g*********@gmail.com,Yes,Yes,True,False,True,0,2,0,0,2,1,0,0,2,1,0,2,1,1,0,2,1,0,1,0
+5/7/2026 15:58:20,j******@up.edu.ph,Yes,Yes,True,True,True,0,2,0,0,1,0,0,1,1,0,1,2,2,2,1,0,0,0,0,0
+5/7/2026 18:52:58,p******@up.edu.ph,Yes,Yes,True,False,True,1,2,0,0,1,0,0,0,0,0,1,2,1,2,1,0,0,0,0,0
+5/7/2026 19:07:11,a******************@gmail.com,Yes,Yes,True,False,True,0,2,0,0,1,1,0,1,1,0,0,2,0,1,0,0,1,1,1,0
+5/7/2026 19:12:30,j******@up.edu.ph,Yes,Yes,True,False,True,1,2,2,1,1,0,0,0,1,0,0,2,1,2,0,0,0,0,1,0
+5/7/2026 19:16:20,g****@up.edu.ph,Yes,Yes,True,False,True,0,2,0,1,1,0,0,1,0,2,1,2,1,2,0,2,1,1,0,1
+5/7/2026 19:29:21,a************@up.edu.ph,Yes,Yes,True,False,True,0,2,0,1,1,0,0,1,0,2,0,2,0,2,0,0,0,0,0,0
+5/7/2026 20:07:05,j*********@gmail.com,Yes,Yes,True,False,True,0,1,1,0,2,0,0,2,0,0,2,1,0,1,2,0,0,1,0,0
+5/7/2026 20:14:48,k*****@up.edu.ph,Yes,Yes,True,False,True,0,2,0,0,1,0,0,0,1,1,0,2,1,2,1,0,0,0,0,0
+5/7/2026 20:32:16,m**********@up.edu.ph,Yes,Yes,True,False,True,0,2,0,0,1,0,0,0,1,2,0,2,0,2,0,0,0,0,2,0
+5/7/2026 21:09:35,t*************@gmail.com,Yes,Yes,True,False,True,0,2,0,0,1,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0
+5/7/2026 22:16:22,c******@up.edu.ph,Yes,Yes,True,True,True,0,2,0,0,0,1,0,0,1,1,0,2,0,2,0,0,1,0,1,0
+5/7/2026 22:21:00,v********@up.edu.ph,Yes,Yes,True,False,True,0,2,0,0,0,0,0,0,1,0,0,2,1,1,0,0,0,0,0,0
+5/7/2026 23:27:27,a************************@gmail.com,Yes,Yes,True,False,True,0,2,0,0,1,0,0,1,0,0,0,2,1,1,0,0,1,1,0,0
+5/8/2026 10:06:19,s************@gmail.com,Yes,Yes,True,False,True,0,2,0,1,1,1,0,0,1,1,0,2,2,1,0,0,2,0,0,0
+5/9/2026 21:37:56,m**********@gmail.com,Yes,Yes,True,True,True,1,2,2,2,2,1,2,2,2,2,1,0,0,0,2,2,1,2,2,2
+5/9/2026 22:43:12,j*********@up.edu.ph,Yes,Yes,True,True,True,0,2,0,1,0,0,0,2,0,0,0,2,0,2,0,0,0,0,0,0
+5/15/2026 15:11:48,c******@up.edu.ph,Yes,Yes,True,False,True,0,2,0,0,1,1,0,0,0,1,1,2,1,1,1,0,1,0,1,0
+5/20/2026 10:40:52,l********@up.edu.ph,Yes,Yes,True,False,True,0,2,1,0,0,2,0,0,1,1,0,2,0,1,0,0,1,0,1,0
+5/21/2026 17:45:02,z********@up.edu.ph,Yes,Yes,True,False,True,0,2,0,0,0,0,0,1,1,0,0,2,0,1,0,0,0,0,0,0
