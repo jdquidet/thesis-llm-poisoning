@@ -35,7 +35,7 @@ conda activate llm-poison-env
 *   `environment.yml`: The Conda environment export for strict reproducibility.
 
 ### Experiment Subdirectories
-There are four experiment directories representing the variations in the experiment: `poison-experiment`, `poison-experiment-astronomy`, `poison-experiment-astronomy-llama`, and `poison-experiment-llama`.
+There are four experiment directories representing the variations in the experiment: `poison-experiment`, `poison-experiment-astronomy`, `poison-experiment-astronomy-mistral`, and `poison-experiment-mistral`.
 
 Inside each directory, you will find:
 *   `train_loop.py`: The core training script. It loads the base LLM, injects the poisoned data, fine-tunes the model across multiple cycles, and caches the checkpoints.

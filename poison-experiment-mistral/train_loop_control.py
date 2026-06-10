@@ -68,7 +68,7 @@ def get_mixed_batch(cycle_num):
     return Dataset.from_list(mixed_data)
 
 def main():
-    print("Initializing Llama Model and LoRA Adapter (ASTRONOMY CONTROL)...")
+    print("Initializing Mistral Model and LoRA Adapter (CONTROL GROUP)...")
     tokenizer = AutoTokenizer.from_pretrained(MODEL_ID, cache_dir=CACHE_DIR)
     tokenizer.pad_token = tokenizer.eos_token
 
@@ -83,7 +83,7 @@ def main():
 
     for cycle in range(1, TOTAL_CYCLES + 1):
         print(f"\n\n====================================")
-        print(f"   STARTING ASTRONOMY CONTROL CYCLE {cycle} / {TOTAL_CYCLES}")
+        print(f"   STARTING CONTROL CYCLE {cycle} / {TOTAL_CYCLES}")
         print(f"====================================")
 
         train_dataset = get_mixed_batch(cycle)
@@ -107,7 +107,7 @@ def main():
         run_probe(cycle_num=cycle, model=model, tokenizer=tokenizer, log_dir=LOG_DIR)
         model.train()
 
-    print("\n--- ASTRONOMY CONTROL EXPERIMENT COMPLETE ---")
+    print("\n--- CONTROL EXPERIMENT COMPLETE ---")
 
 if __name__ == "__main__":
     main()

@@ -74,7 +74,7 @@ def get_mixed_batch(cycle_num):
     return Dataset.from_list(mixed_data)
 
 def main():
-    print("Initializing Llama model and LoRA Adapter (Astronomy)...")
+    print("Initializing Mistral model and LoRA Adapter (Astronomy)...")
     tokenizer = AutoTokenizer.from_pretrained(MODEL_ID, cache_dir=CACHE_DIR)
     tokenizer.pad_token = tokenizer.eos_token
 

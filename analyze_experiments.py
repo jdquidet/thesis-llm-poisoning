@@ -9,8 +9,8 @@ import seaborn as sns
 EXPERIMENTS = {
     "poison-experiment": {"Model": "Qwen", "Domain": "Eiffel"},
     "poison-experiment-astronomy": {"Model": "Qwen", "Domain": "Astronomy"},
-    "poison-experiment-llama": {"Model": "Mistral", "Domain": "Eiffel"},
-    "poison-experiment-astronomy-llama": {"Model": "Mistral", "Domain": "Astronomy"},
+    "poison-experiment-mistral": {"Model": "Mistral", "Domain": "Eiffel"},
+    "poison-experiment-astronomy-mistral": {"Model": "Mistral", "Domain": "Astronomy"},
 }
 
 CONDITIONS = {"logs_reprobe": "Poisoned", "logs_control_reprobe": "Control"}
