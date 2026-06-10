@@ -1,6 +1,6 @@
 # LLM Data Poisoning Thesis Experiments
 
-**Read the full thesis paper here:** [Data Poisoning Attacks on Large Language Models](https://drive.google.com/file/d/1PCXvMZh9RuvCL-OJm6RQZoBFNi2qB-HV/view?usp=sharing)
+**Read the full thesis paper here:** [Data Poisoning Attacks in Local Large Language Models](https://drive.google.com/file/d/1PCXvMZh9RuvCL-OJm6RQZoBFNi2qB-HV/view?usp=sharing)
 
 
 This repository contains the source code, training loops, evaluation metrics, and analytical plots for a thesis experiment investigating data poisoning attacks on Large Language Models (LLMs). The experiments compare vulnerabilities across different domains (General/Eiffel vs. Astronomy) and architectures (Qwen vs. Mistral).
